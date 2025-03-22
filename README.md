@@ -1,3 +1,3 @@
 # SimpleDemo-resnet-
 
-## FastAPI + inference
+## FastAPI + inference + Docker
